@@ -62,7 +62,7 @@ Inspired by articles on radiation affects on humans and our eco system.
 
 
 
-[[https://github.com/rimag2023/logical](https://pixabay.com/photos/flowers-petals-dew-dewdrops-174817/)
+[https://github.com/rimag2023/logical](https://pixabay.com/photos/flowers-petals-dew-dewdrops-174817/)
 
 
 
