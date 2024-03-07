@@ -12,7 +12,7 @@ Welcome to the Radiation Calculation project! This tool helps you to calculate v
 
 ## Technologies Used
 • Python 3.12.2: Backend logic and calculation algorithms.
-• SQLite: Database management for storing university related information.
+• SQLite: Database management for storing radiation data and user inputs.
 
 ## Installation
 1. Clone the repository:
