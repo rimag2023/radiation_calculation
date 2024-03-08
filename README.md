@@ -19,9 +19,10 @@ Welcome to the Radiation Calculation project! This tool helps you to calculate v
 bash
 git clone 'https://github.com/rimag2023/radiation_calculation.git'
 
-2. Install dependencies:
+
+3. Install dependencies:
 pip install -r requirements.txt (optional)
-3. Run the application: 'Radiation Levels. Calculation.py'
+4. Run the application: 'Radiation Levels. Calculation.py'
 
 ## Usage 
 bash
@@ -63,6 +64,8 @@ Inspired by articles on radiation affects on humans and our eco system.
 
 
 [https://github.com/rimag2023/logical](https://pixabay.com/photos/flowers-petals-dew-dewdrops-174817/)
+
+[https://github.com/rimag2023/logical](https://Pngtree—caution radiation icon_8791847.png)
 
 
 <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
