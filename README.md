@@ -59,7 +59,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Acknowledgement
 Inspired by articles on radiation affects on humans and our eco system.
 
-[https://github.com/rimag2023/logical](https://pixabay.com/photos/nuclear-power-plant-cooling-tower-3145445/)
+![https://github.com/rimag2023/logical](Screenshot 2024-03-12 at 00.02.30.png)
 
 
 
